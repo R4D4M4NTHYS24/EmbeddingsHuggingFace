@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://secol.sharepoint.com/sites/Intranet",
+    "workspaceRoot": "c:\\sistemas-expertos\\IA\\embeddingsHuggingParcel",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "c:\\sistemas-expertos\\IA\\embeddingsHuggingParcel\\src\\**\\*.*",
+        "localRoot": "c:\\sistemas-expertos\\IA\\embeddingsHuggingParcel\\src"
+    },
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest"
+}
